@@ -14,6 +14,10 @@ Create graph of a log file.
 ## Technologies Used
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 
+## Preview
+![Screenshot (69)](https://github.com/Harshit2012/Log-File-Visualizer/assets/105143145/4e3d46fa-e7a3-494d-9d64-8af6356318df)
+
+
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
 
