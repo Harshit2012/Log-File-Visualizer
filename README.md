@@ -17,6 +17,15 @@ Create graph of a log file.
 ## Preview
 ![Screenshot (69)](https://github.com/Harshit2012/Log-File-Visualizer/assets/105143145/4e3d46fa-e7a3-494d-9d64-8af6356318df)
 
+## To install libraries
+### Tkinter
+```bash
+pip install tk
+```
+### To install matplotlib
+```bash
+pip install matplotlib
+```
 
 ## Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
