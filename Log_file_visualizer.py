@@ -34,12 +34,12 @@ def on_browse_click():
             log_text.insert(tk.END, file.read())
 
 root = tk.Tk()
-root.title("Log Analyzer")
+root.title("Log File Visualizer")
 
 main_frame = ttk.Frame(root)
 main_frame.pack(padx=10, pady=10)
 
-heading_label = ttk.Label(main_frame, text="Log Analyzer", font=("Helvetica", 16))
+heading_label = ttk.Label(main_frame, text="Log File Visualizer", font=("Helvetica", 16))
 heading_label.pack()
 
 subheading_label = ttk.Label(main_frame, text="Select a log file and analyze its data", font=("Helvetica", 12))
